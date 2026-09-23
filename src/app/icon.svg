@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#b3402f"/>
+  <text x="32" y="27" font-family="'Noto Serif SC',serif" font-size="24" font-weight="900" fill="#f2efe6" text-anchor="middle">数</text>
+  <text x="32" y="53" font-family="'Noto Serif SC',serif" font-size="24" font-weight="900" fill="#f2efe6" text-anchor="middle">术</text>
+</svg>
